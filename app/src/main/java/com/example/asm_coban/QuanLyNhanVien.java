@@ -1,11 +1,10 @@
-package com.example.asm_huanvbph41609;
+package com.example.asm_coban;
 
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.app.Dialog;
 import android.os.Bundle;
-import android.util.Log;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
@@ -22,11 +21,11 @@ import androidx.appcompat.widget.SearchView;
 import androidx.appcompat.widget.Toolbar;
 import androidx.core.content.ContextCompat;
 
-import com.example.asm_huanvbph41609.adapter.ItemAdapter;
-import com.example.asm_huanvbph41609.adapter.StaffAdapter;
-import com.example.asm_huanvbph41609.model.Staff;
-import com.example.asm_huanvbph41609.service.MyFile;
-import com.example.asm_huanvbph41609.validate.Validate;
+import com.example.asm_coban.adapter.ItemAdapter;
+import com.example.asm_coban.adapter.StaffAdapter;
+import com.example.asm_coban.model.Staff;
+import com.example.asm_coban.service.MyFile;
+import com.example.asm_coban.validate.Validate;
 
 import java.util.ArrayList;
 import java.util.List;

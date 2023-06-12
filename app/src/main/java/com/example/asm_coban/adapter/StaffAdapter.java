@@ -1,4 +1,4 @@
-package com.example.asm_huanvbph41609.adapter;
+package com.example.asm_coban.adapter;
 
 import android.app.Activity;
 import android.app.Dialog;
@@ -17,9 +17,9 @@ import android.widget.Spinner;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.example.asm_huanvbph41609.R;
-import com.example.asm_huanvbph41609.model.Staff;
-import com.example.asm_huanvbph41609.validate.Validate;
+import com.example.asm_coban.R;
+import com.example.asm_coban.model.Staff;
+import com.example.asm_coban.validate.Validate;
 
 import java.util.ArrayList;
 import java.util.List;

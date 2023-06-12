@@ -1,4 +1,4 @@
-package com.example.asm_huanvbph41609;
+package com.example.asm_coban;
 
 import org.junit.Test;
 

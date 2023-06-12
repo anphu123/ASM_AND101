@@ -1,4 +1,4 @@
-package com.example.asm_huanvbph41609.model;
+package com.example.asm_coban.model;
 
 import java.io.Serializable;
 

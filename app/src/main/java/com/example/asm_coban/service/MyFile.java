@@ -1,14 +1,11 @@
-package com.example.asm_huanvbph41609.service;
+package com.example.asm_coban.service;
 
 import static android.content.Context.MODE_PRIVATE;
 
 import android.content.Context;
-import android.util.Log;
-import android.widget.Toast;
 
-import com.example.asm_huanvbph41609.Login;
-import com.example.asm_huanvbph41609.model.Account;
-import com.example.asm_huanvbph41609.model.Staff;
+import com.example.asm_coban.model.Account;
+import com.example.asm_coban.model.Staff;
 
 import java.io.FileInputStream;
 import java.io.FileOutputStream;

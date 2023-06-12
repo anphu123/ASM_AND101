@@ -28,6 +28,7 @@
         android:textSize="20dp"
         android:textStyle="bold" />
 
+
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -61,6 +62,7 @@
             android:layout_marginLeft="5dp"
             android:textSize="25dp"
             android:text="Nhân viên"/>
+
     </LinearLayout>
 
     <Button
@@ -76,5 +78,12 @@
         android:layout_marginLeft="5dp"
         android:textSize="25dp"
         android:text="Đăng xuất"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="HUYNH MAI AN PHU -PS19353"
+        android:gravity="center"
+        android:layout_marginTop="30dp"
+        android:textColor="#8BC34A"/>
 
 </LinearLayout>

@@ -1,4 +1,4 @@
-package com.example.asm_huanvbph41609.validate;
+package com.example.asm_coban.validate;
 
 public class Validate {
     public static boolean validate(String id, String name, String room){

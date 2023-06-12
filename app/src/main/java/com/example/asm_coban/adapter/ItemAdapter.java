@@ -1,4 +1,4 @@
-package com.example.asm_huanvbph41609.adapter;
+package com.example.asm_coban.adapter;
 
 import android.content.Context;
 import android.view.LayoutInflater;
@@ -10,8 +10,8 @@ import android.widget.ImageView;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 
-import com.example.asm_huanvbph41609.R;
-import com.example.asm_huanvbph41609.model.Staff;
+import com.example.asm_coban.R;
+import com.example.asm_coban.model.Staff;
 
 import java.util.List;
 
